@@ -144,8 +144,9 @@ Choose 1–2 Tracks:
 This roadmap is **open-source** and meant to evolve!  
 Feel free to contribute, fork, or share it.
 
-**🔗 Follow the creator:** [@yourusername](https://github.com/yourusername)  
-**📬 Contact for collaborations:** your.email@example.com
+**🔗 Follow the creator:** [@yourusername](https://github.com/
+ravi112004)  
+**📬 Contact for collaborations:** ravik112004@gmail.com
 
 ---
 
